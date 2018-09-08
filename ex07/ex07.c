@@ -5,9 +5,9 @@ int main(int argc, char* argv[])
   int distinace = 100;
   float power = 2.345f;
   double super_power = 56789.4532;
-  char initial = 'Y';                  // single character
-  char first_name[] = "Ivy";           // character array string
-  char last_name[] = "Yang";
+  char initial = 'A';                  // single character
+  char first_name[] = "Awe";           // character array string
+  char last_name[] = "Some";
 
   printf("You are %d miles away.\n", distinace);
   printf("You have %f levels of power.\n", power);
